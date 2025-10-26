@@ -1,0 +1,12 @@
+streamlit
+sentence-transformers
+faiss-cpu
+transformers
+youtube-transcript-api
+textract
+cryptography
+requests
+pandas
+numpy
+pyyaml
+torch      
